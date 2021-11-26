@@ -4,12 +4,15 @@ import "./styles.css";
 
 const emojiDictionary = {
   "😊": "Smiling",
-  "😳": "disbelief",
-  "😔": "sad",
-  "🥡": "takeout box",
-  "❤️": "love",
-  "😑":
-    "annoyance" 
+  "😳": "Disbelief",
+  "😔": "Sad",
+  "🥡": "Takeout box",
+  "❤️": "Love",
+  "😑": "Annoyance" ,
+  "🤩": "Star Struck",
+  "🤪": "Zanny Face",
+  "😐": "Neutral Face",
+  "😴": "Sleeping Face",
 };
 
 
